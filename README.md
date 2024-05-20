@@ -17,7 +17,7 @@ Other necessary dependencies
 
    ```bash
    https://github.com/imsachin49/cms-dynamic-table
-   cd Vahan-Assignment
+   cd cms-dynamic-table
    cd client
    npm install
 
