@@ -16,7 +16,7 @@ Other necessary dependencies
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anujgupta1368/Vahan-Assignment.git
+   https://github.com/imsachin49/cms-dynamic-table
    cd Vahan-Assignment
    cd client
    npm install
