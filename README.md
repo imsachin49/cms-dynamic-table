@@ -45,3 +45,11 @@ Other necessary dependencies
 - HOST
 - PORT
 - DATABASE
+
+## ScreenShots:-
+![pag1](https://github.com/imsachin49/cms-dynamic-table/assets/108334265/e2f23fa4-623e-4bc9-bb3b-bf678ac9520e)
+![page2](https://github.com/imsachin49/cms-dynamic-table/assets/108334265/498b5459-176a-487c-ac40-662c91d29045)
+![page4](https://github.com/imsachin49/cms-dynamic-table/assets/108334265/4d884d54-b989-428c-b9e5-559e31fceadb)
+![page3](https://github.com/imsachin49/cms-dynamic-table/assets/108334265/c4c6a21f-2de2-4d69-8f23-41ee3e017535)
+
+
